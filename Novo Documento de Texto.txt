@@ -1,0 +1,24 @@
+npm install @types/express -D
+
+npm install typescript -D
+
+yarn tsc --init
+
+yarn tsc  ---- para gerar o arquivo .js
+
+npm install express
+
+npm install ts-node-dev -D
+
+npm install uuid
+npm install @types/uuid -D
+
+para upload de arquivos
+npm install multer
+
+npm install @types/multer -D
+
+npm install csv-parse
+
+npm install swagger-ui-express
+npm install @types/swagger-ui-express -D
