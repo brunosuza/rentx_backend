@@ -25,6 +25,7 @@ Projeto de estudo de api node
 <p>-npm install swagger-ui-express</p>
 <p>-npm install @types/swagger-ui-express -D</p>
 
-![image](https://user-images.githubusercontent.com/13911181/228694613-7d63a3cd-2eac-4fc4-9212-c45d0a565ba7.png)
+![image](https://user-images.githubusercontent.com/13911181/228694968-3f8d739c-565e-41dc-b3cf-6f7418984e0b.png)
 
-![image](https://user-images.githubusercontent.com/13911181/228694712-782445f2-b397-4461-88ed-b4e68e2541b2.png)
+![image](https://user-images.githubusercontent.com/13911181/228694910-797a59e5-b9e5-45d7-9d48-09299d00e9a7.png)
+
